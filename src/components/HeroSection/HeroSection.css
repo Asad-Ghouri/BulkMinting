@@ -39,6 +39,10 @@
     padding-bottom: 4rem;
 } 
 
+.checkchanges{
+align-items: center;
+}
+
 
 .image  { 
     -webkit-flex: 1 1; 
