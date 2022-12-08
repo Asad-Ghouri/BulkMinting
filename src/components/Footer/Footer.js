@@ -4,7 +4,7 @@ import "./Footer.css"
 export const Footer = () => {
   return (
     <div className='footer'>
-      <a href="https://twitter.com/adventure9labs">
+      <a href="https://twitter.com/Adventure9Labs">
        <img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png"  alt="twitter" />
       </a>
 

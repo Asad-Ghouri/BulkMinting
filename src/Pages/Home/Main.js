@@ -623,7 +623,15 @@ export const Main = () => {
 
 <h1   className="faq">Mint Your SkyFlyPie</h1>
 <div className="ifram">
-<iframe src="https://gateway.ipfscdn.io/ipfs/Qmcine1gpZUbQ73nk7ZGCcjKBVFYXrEtqrhujXk3HDQ6Nn/erc721.html?contract=0x62d3bcfB8688AC5db360D8bADE3c41dB14204389&chainId=80001&theme=dark&primaryColor=orange" width="600px" height="600px" style={{maxWidth: '100%'}} frameBorder={0} />
+{/* <iframe src="https://gateway.ipfscdn.io/ipfs/Qmcine1gpZUbQ73nk7ZGCcjKBVFYXrEtqrhujXk3HDQ6Nn/erc721.html?contract=0x62d3bcfB8688AC5db360D8bADE3c41dB14204389&chainId=80001&theme=dark&primaryColor=orange" width="600px" height="600px" style={{maxWidth: '100%'}} frameBorder={0} /> */}
+{/* <iframe
+src="https://gateway.ipfscdn.io/ipfs/Qmcine1gpZUbQ73nk7ZGCcjKBVFYXrEtqrhujXk3HDQ6Nn/erc721.html?contract=0x1b5abBA5fc616322da9c8B4c0721ed850D036C77&chainId=1&theme=dark&primaryColor=teal"
+width="600px"
+height="600px"
+style="max-width:100%;"
+frameborder="0"
+></iframe> */}
+      <iframe src="https://gateway.ipfscdn.io/ipfs/Qmcine1gpZUbQ73nk7ZGCcjKBVFYXrEtqrhujXk3HDQ6Nn/erc721.html?contract=0x1b5abBA5fc616322da9c8B4c0721ed850D036C77&chainId=1&theme=dark&primaryColor=teal" width="600px" height="600px" style={{maxWidth: '100%'}} frameBorder={0} />
 </div>
 
 
