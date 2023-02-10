@@ -649,7 +649,7 @@ frameborder="0"
 <Accordion
           className="accordition"
           title="wEN miNt dAtE?"
-          content=" <p>13.03.23 iF tHere aRe nO gLitChes</p>
+          content=" <p>13.01.23 iF tHere aRe nO gLitChes</p>
           </br>
          "
         />
